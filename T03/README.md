@@ -15,3 +15,6 @@ Es lliurarà un informe tècnic detallat en format MarkDown que inclogui:
 - Evidències:  Captura i explicacions de les diferents configuracions realitzades en els tres apartats.
 - Proves de funcionament: comprovacions des dels clients, on es puguin comprovar que funcionen els controls d’accés, les quotes i les restriccions.
 
+a l'arxiu: [solucio.md](solucio.md) trobaras la solució a la tasca
+
+[torna a la pàgina principal](../README.md)
