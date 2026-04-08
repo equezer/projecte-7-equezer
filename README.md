@@ -6,9 +6,9 @@
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: [Jan Fernández Paulinelli]
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]
+Formant grups de treball: [Pol Hernandez, David ballesteros, Jan Fernández]
 
 ## Descripció del projecte
 
