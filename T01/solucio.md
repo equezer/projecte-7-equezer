@@ -6,11 +6,7 @@ Abans de pressupostar i valorar el preu de la vostra hora de feina, heu de saber
 ### Recerca de mercat
 S'han identificat 3 empreses de serveis informàtics que operen a **Mataró o rodalies (Maresme)**
 
-| Empresa | Mida | Serveis Principals |
-| :--- | :--- | :--- |
-| **Digitalnet** |PIME  | Manteniment proactiu, solucions Cloud, seguretat i còpies de seguretat. |
-| **DYD SERVEIS INFORMÀTICS** | PIME | Venda de hardware, manteniment de sistemes, instal·lació de xarxes i programari. |
-| **TICBCN** | PIME | Ciberseguretat, Outsourcing informàtic, manteniment i consultoria tecnològica. |
+<img width="601" height="615" alt="image" src="https://github.com/user-attachments/assets/793f1296-34dc-4d28-9eb1-719a7ef59064" />
 
 ---
 
@@ -55,12 +51,8 @@ La nostra estratègia es basa en tres pilars per diferenciar-nos de la competèn
 
 ### Recursos Necessaris
 
-| Perfil | Funcions Principals | Tipus de dedicació |
-| :--- | :--- | :--- |
-| **Project Manager / Comercial** | Gestió del client, pressupostos i seguiment. | Parcial (Inici i tancament). |
-| **Tècnic Sistemes (Senior)** | Configuració de servidors, seguretat i xarxes complexes. | Puntual (Posta en marxa). |
-| **Tècnic Helpdesk (L1/L2)** | Atenció diària, resolució d'incidències i manteniment. | Continuada (Dia a dia). |
-| **Especialista en Ciberseguretat** | Auditoria inicial i configuració de polítiques de protecció. | Puntual (Auditoria). |
+<img width="590" height="504" alt="image" src="https://github.com/user-attachments/assets/3cd7f2c0-d816-4d25-b988-e0aca0f7b434" />
+
 
 ### Capacitat Operativa i Creixement
 **Capacitat:** Un grup de 3 o 4 persones pot cobrir el Comercial i el Helpdesk, però hi ha risc de servei si coincideixen urgències amb horaris lectius o altres reunions.
