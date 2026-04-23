@@ -13,14 +13,25 @@ A partir de les tasques reals del projecte (T01–T08):
 
 **T01 → T02**: Cal conèixer el sector abans de dissenyar la web corporativa.
 
+---
+
 **T02 → T06**: No es pot ralitzar la web (T06) si no s'ha creat prèviament la proposta (T02).
+
+---
 
 **T02/T06 → T08**: La tria final es fa sobre les propostes ja treballades individualment i validades legalment.
 
+---
+
 * Tasques que poden anar en paral·lel  
-- Les tasques de diferents mòduls es poden fer en paral·lel  
-  * Tasques bloquejants  
+- Les tasques de diferents mòduls es poden fer en paral·lel
+
+---
+
+* Tasques bloquejants  
 - T02
+
+---
 
 Heu de respondre preguntes com:
 
@@ -51,6 +62,8 @@ Les tasques més importants per treure l’informació necessària per realitzar
 **T05 (Vídeo formatiu LOPD):** És una tasca de sensibilització i formació. Encara que és important per al compliment global, el seu retard no atura el desplegament tècnic de la xarxa o la web.
 
 **T07 (Migrant al cloud):** Es tracta d'un estudi de mercat i una proposta de modernització de correu i col·laboració. Pot tenir cert marge mentre es realitzen les configuracions de servidors locals (T03/T04).
+
+---
 
 **Fase 2: Estimació d’esforç amb criteri (ús d’IA guiat)**
 
@@ -107,6 +120,8 @@ Per cada tasca anterior, heu d'afegir:
 2. **Coordinació:** En tasques d'equip (com T05 o T08 ), dediquem almenys 1 hora setmanal a reunions de sincronització.  
 3. **Documentació:** Recordeu que el lliurament inclou READMEs detallats, memòria tècnica (P01) i el repositori (P03).
 
+---
+
 **Fase 3: Assignació de recursos (treball en equip real)**
 
 Distribuïu les tasques entre els membres de l’equip (Pol, Jan i David) :
@@ -134,6 +149,8 @@ Distribuïu les tasques entre els membres de l’equip (Pol, Jan i David) :
 
 - **Finalització (Equip):** Un cop en Jan completi la **T06** (basada en el treball previ d'en Pol), tot l'equip es reunirà per a la **T08**, on es farà la dinàmica de grup per a la tria definitiva i la redacció de l'informe final.
 
+---
+
 **Fase 4: Construcció del diagrama de Gantt (UMLTree)**
 
 Utilitzant **PlantUML (UMLTree)**:
@@ -148,6 +165,7 @@ El diagrama ha de mostrar:
 
 <img width="623" height="278" alt="image" src="https://github.com/user-attachments/assets/3cd6dbd8-375d-4655-ba98-066cc7f07361" />
 
+---
 
 **Fase 5: Pla de contingència (pensament professional)**
 
