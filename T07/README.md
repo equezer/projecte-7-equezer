@@ -30,6 +30,6 @@ Un document simulant un dossier comercial que ha d’incloure obligatòriament e
 - Justificació tècnica: text adreçat als responsables de l’empresa justificant perquè l’alternativa escollida és la més segura i eficient.
 - Pressupost desglossat: una taula econòmica on es mostri el cost de les llicències de programari indicant clarament els costos recurrents.
 
-a l'arxiu: [T07_ Migrant al cloud.](T07_ Migrant al cloud.) trobaras la solució a la tasca
+a l'arxiu: [T07_ Migrant al cloud](T07_Migrant_al_cloud.) trobaras la solució a la tasca
 
 [torna a la pàgina principal](../README.md)
