@@ -10,6 +10,4 @@ En primer lloc creeu-vos el repositori corresponent a la tasca web_projecte7, l�
 Un cop heu confirmat els canvis i els heu pujat a GitHub, configureu el desplegament a GitHub Pages del contingut de docs.
 Cal que tots els membres de l’equip facin aquesta això als seus respectius repositoris.
 
-a l'arxiu: [solucio.md](solucio.md) trobaras la solució a la tasca
-
-[torna a la pàgina principal](../README.md)
+link web definitiva: [foodlogistic-grup:Jan_i_pol](https://github.com/classesSMX2n/web-projecte7-equezer/tree/main)
