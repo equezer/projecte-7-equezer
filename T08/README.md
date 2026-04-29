@@ -16,4 +16,7 @@ Fins ara, cadascú de vosaltres ha estat treballant de manera individual en el d
 
 Recordeu que el vostre objectiu com a socis de l'empresa informàtica és defensar una proposta guanyadora que convenci el client, sigui tècnicament viable i compleix totes les exigències legals.
 
+a l'arxiu: [solucio.md](solucio.md) trobaras la solució a la tasca
+
+[torna a la pàgina principal](../README.md)
 
