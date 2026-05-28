@@ -4,6 +4,19 @@
 
 ![Logo del projecte FoodLogistic](pics/FoodLogisticLogo.png)
 
+
+- [Tasca1-Coneixent la competència i el sector](T01)
+- [Tasca2-Creant la proposta de pàgina corporativa](T02)
+- [Tasca3-Servidor de fitxers](T03)
+- [Tasca6-Fent 100% legal la web de FoodLogístic S.A.](T06)
+- [Tasca7-Migrant al cloud.](T07)
+- [Tasca8-Tria de la web definitiva.](T08)
+- [Tasca9-Estimació temporal de projecte](T09)
+- [Tasca10-Pressupost del projecte](T10)
+- [P01-Memòria tècnica de la proposta](P01)
+- [P02-Web corporativa](P02)
+
+
 ## Autor
 
 Nom: [Jan Fernández Paulinelli]
